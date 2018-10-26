@@ -1,0 +1,25 @@
+p{
+    overflow-wrap: break-word;
+}
+.carousel-card-header {
+    background-color: white!important;
+}
+.carousel-caption {
+    color: black;
+    font-weight: 900;
+}
+.carousel-img {
+    z-index: -2;
+    opacity: 0.25;
+}
+  
+  .tweets-header {
+    color: black!important;
+    font-weight: 900;
+  }
+  
+  .tweets-msg {
+    color: black!important;
+    font-weight: 900;
+    overflow-wrap: break-word;
+  }
